@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Onkar Pethe
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Backend Development
-- 💞️ I’m looking to collaborate on awesome open source project
+- 💞️ I’m looking to collaborate on awesome open source projects
 - 📫 How to reach me https://www.linkedin.com/in/onkar-pethe-2b2036196/
 
 <!---

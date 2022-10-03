@@ -44,7 +44,3 @@ src="https://img.shields.io/github/followers/onkarpethe15-ai?logo=github&style=f
 <a href="http://www.github.com/onkarpethe15-ai"><img src="https://activity-graph.herokuapp.com/graph?username=onkarpethe15-ai&bg_color=581c87&color=ffffff&line=ec4899&point=ffffff&area_color=581c87&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/onkarpethe15-ai" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onkarpethe15-ai&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=581c87&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />

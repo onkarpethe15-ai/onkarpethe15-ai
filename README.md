@@ -34,6 +34,7 @@ src="https://img.shields.io/github/followers/onkarpethe15-ai?logo=github&style=f
 <p align="left"> <a href="https://discord.com/users/╲⎝⧹strom_11⧸⎠╱#8945" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/onkarpethe15-ai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in//onkar-pethe-2b2036196/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/15375413/comp-sy-60onkar-pethe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
 ### Badges
+[![@onkar's Holopin board](https://holopin.me/onkar)](https://holopin.io/@onkar)
 
 <b>My GitHub Stats</b>
 
